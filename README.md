@@ -6,3 +6,13 @@ Codechef
 LeetCode.
 
 Uses webScrapping using cheerio.
+
+
+
+REQUEST FORMAT
+
+BASE_URL/api/{coding platform}/:userHandle
+e.g. - http://localhost:5000/api/leetcode/ritikmishra7
+
+coding platform = codechef || codeforces || leetcode.....
+
