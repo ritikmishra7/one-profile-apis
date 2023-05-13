@@ -1,6 +1,6 @@
 # one-profile-apis
 
-This repository contains APIS which fethces infomation from famous coding platforms like
+This repository contains APIS which fetches infomation from famous coding platforms like
 Codeforces
 Codechef
 LeetCode.
